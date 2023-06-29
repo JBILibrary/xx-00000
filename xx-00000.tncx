@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<tncx version="1.0">
+	<head>
+		<meta name="dtb:uid" content="us-xio-xx-00000"/>
+		
+		<meta name="dtb:generator" content="LCM 4.1.0.6"/>
+		
+		<meta name="dtb:depth" content="1"/>
+		
+		<meta name="dtb:maxPageNormal" content="0"/>
+		
+		<meta name="dtb:pageFront" content="0"/>
+		
+		<meta name="dtb:pageNormal" content="0"/>
+		
+		<meta name="dtb:pageSpecial" content="0"/>
+		</head>
+	
+	<docTitle>
+		<text>Untitled</text>
+		
+		<audio src="title.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:01.000011"/>
+		</docTitle>
+	
+	<docAuthor>
+		<text>Unauthored</text>
+		
+		<audio src="author.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:01.000011"/>
+		</docAuthor>
+	
+	<navMap>
+		<facetDefs enableUI="yes">
+			<facetDef class="open" facet="reference" color="0x00ff00" key="1"/>
+			
+			<facetDef class="close" facet="reference" color="0x00ff00" key="2"/>
+			
+			<facetDef class="title/author" facet="reference" color="0x00ff00" key="3"/>
+			
+			<facetDef class="chapter" facet="reference" color="0x00ff00" key="4"/>
+			
+			<facetDef class="section" facet="reference" color="0x00ff00" key="5"/>
+			</facetDefs>
+		
+		<navPoint class="open">
+			<facet type="reference" sequence="1">
+				<audio src="xx-00000s01.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:01.000011"/>
+				</facet>
+			</navPoint>
+		
+		<navPoint class="title/author">
+			<facet type="reference" sequence="3">
+				<audio src="xx-00000s01.wav" clipBegin=" 00:00:02.000011" clipEnd=" 00:00:03.000011"/>
+				</facet>
+			</navPoint>
+		
+		<navPoint class="chapter">
+			<facet type="reference" sequence="4">
+				<audio src="xx-00000s01.wav" clipBegin=" 00:00:04.000011" clipEnd=" 00:00:05.000011"/>
+				</facet>
+			</navPoint>
+		
+		<navPoint class="section">
+			<facet type="reference" sequence="8">
+				<audio src="xx-00000s01.wav" clipBegin=" 00:00:06.000011" clipEnd=" 00:00:07.000011"/>
+				</facet>
+			</navPoint>
+		
+		<navPoint class="section">
+			<facet type="reference" sequence="9">
+				<audio src="xx-00000s01.wav" clipBegin=" 00:00:08.000011" clipEnd=" 00:00:09.000011"/>
+				</facet>
+			</navPoint>
+		
+		<navPoint class="chapter">
+			<facet type="reference" sequence="10">
+				<audio src="xx-00000s01.wav" clipBegin=" 00:00:10.000011" clipEnd=" 00:00:11.000011"/>
+				</facet>
+			</navPoint>
+		
+		<navPoint class="section">
+			<facet type="reference" sequence="11">
+				<audio src="xx-00000s01.wav" clipBegin=" 00:00:12.000011" clipEnd=" 00:00:13.000011"/>
+				</facet>
+			</navPoint>
+		
+		<navPoint class="section">
+			<facet type="reference" sequence="12">
+				<audio src="xx-00000s01.wav" clipBegin=" 00:00:14.000011" clipEnd=" 00:00:15.000011"/>
+				</facet>
+			</navPoint>
+		
+		<navPoint class="close">
+			<facet type="reference" sequence="13">
+				<audio src="xx-00000s01.wav" clipBegin=" 00:00:58.000011" clipEnd=" 00:00:59.000011"/>
+				</facet>
+			</navPoint>
+		</navMap>
+	
+	<navList class="segment">
+		<facetDefs>
+			<facetDef class="segment" facet="reference" color="0xc040c0" key="" enableUI="no" skip="no"/>
+			
+			<facetDef class="segment" facet="content" color="0xc040c0" key="" enableUI="no" skip="no"/>
+			
+			<facetDef class="segment" facet="location" color="0xc040c0" key="" enableUI="no" skip="no"/>
+			</facetDefs>
+		</navList>
+	
+	<navList class="pagenum">
+		<facetDefs>
+			<facetDef class="pagenum" facet="reference" color="0x0000ff" key="" enableUI="no" skip="no"/>
+			
+			<facetDef class="pagenum" facet="content" color="0x0000ff" key="" enableUI="no" skip="no"/>
+			
+			<facetDef class="pagenum" facet="location" color="0x0000ff" key="" enableUI="no" skip="no"/>
+			</facetDefs>
+		</navList>
+	
+	<navList class="note">
+		<facetDefs>
+			<facetDef class="note" facet="reference" color="0x00ff00" key="" enableUI="no" skip="no"/>
+			
+			<facetDef class="note" facet="content" color="0x00ff00" key="" enableUI="no" skip="no"/>
+			
+			<facetDef class="note" facet="location" color="0x00ff00" key="" enableUI="no" skip="no"/>
+			</facetDefs>
+		</navList>
+	
+	<navList class="sidebar">
+		<facetDefs>
+			<facetDef class="sidebar" facet="reference" color="0xff0000" key="" enableUI="no" skip="no"/>
+			
+			<facetDef class="sidebar" facet="content" color="0xff0000" key="" enableUI="no" skip="no"/>
+			
+			<facetDef class="sidebar" facet="location" color="0xff0000" key="" enableUI="no" skip="no"/>
+			</facetDefs>
+		</navList>
+	
+	<navList class="annotation">
+		<facetDefs>
+			<facetDef class="annotation" facet="reference" color="0x202080" key="" enableUI="no" skip="no"/>
+			
+			<facetDef class="annotation" facet="content" color="0x202080" key="" enableUI="no" skip="no"/>
+			
+			<facetDef class="annotation" facet="location" color="0x202080" key="" enableUI="no" skip="no"/>
+			</facetDefs>
+		</navList>
+	
+	<navList class="prodnote">
+		<facetDefs>
+			<facetDef class="prodnote" facet="reference" color="0x208020" key="" enableUI="no" skip="no"/>
+			
+			<facetDef class="prodnote" facet="content" color="0x208020" key="" enableUI="no" skip="no"/>
+			
+			<facetDef class="prodnote" facet="location" color="0x208020" key="" enableUI="no" skip="no"/>
+			</facetDefs>
+		</navList>
+	
+	<navList class="linenum">
+		<facetDefs>
+			<facetDef class="linenum" facet="reference" color="0x802020" key="" enableUI="no" skip="no"/>
+			
+			<facetDef class="linenum" facet="content" color="0x802020" key="" enableUI="no" skip="no"/>
+			
+			<facetDef class="linenum" facet="location" color="0x802020" key="" enableUI="no" skip="no"/>
+			</facetDefs>
+		</navList>
+	
+	<navList class="exclude">
+		<facetDefs>
+			<facetDef class="exclude" facet="reference" color="00000000" key="" enableUI="no" skip="no"/>
+			
+			<facetDef class="exclude" facet="content" color="00000000" key="" enableUI="no" skip="no"/>
+			
+			<facetDef class="exclude" facet="location" color="00000000" key="" enableUI="no" skip="no"/>
+			</facetDefs>
+		</navList>
+	</tncx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE smil PUBLIC "-//NISO//DTD dtbsmil v1.1.0//EN" "dtbsmil110.dtd">
+<smil>
+	<head>
+		<meta name="dtb:uid" content="us-xio-xx-00000"/>
+		
+		<meta name="dtb:totalElapsedTime" content="0:00:00.000"/>
+		
+		<meta name="dtb:generator" content="LCM 4.1.0.6"/>
+		
+		
+		</head>
+	
+	<body>
+		<seq id="baseseq">
+			<seq id="source_0">
+				<audio src="xx-00000ann.3gp" clipBegin="0:00:00.000" clipEnd="0:00:01.000"/>
+				
+				<audio src="xx-00000-0001.3gp" clipBegin="0:00:00.000" clipEnd="0:01:00.000"/>
+				</seq>
+			</seq>
+		</body>
+	</smil>

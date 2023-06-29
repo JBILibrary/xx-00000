@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE smil PUBLIC "-//NISO//DTD dtbsmil v1.1.0//EN" "dtbsmil110.dtd">
+<smil>
+	<head>
+		<meta name="dtb:uid" content="us-xio-xx-00000"/>
+		
+		<meta name="dtb:totalElapsedTime" content="0:00:00.000"/>
+		
+		<meta name="dtb:generator" content="LCM 4.1.0.6"/>
+		
+		
+		</head>
+	
+	<body>
+		<seq id="baseseq">
+			<par id="source_0">
+				<audio src="xx-00000ann.3gp" clipBegin="0:00:00.000" clipEnd="0:00:01.000"/>
+				</par>
+			
+			<par id="P1_1">
+				<audio src="xx-00000-0001.3gp" clipBegin="0:00:00.000" clipEnd="0:00:01.000"/>
+				</par>
+			
+			<par id="source_1">
+				<audio src="xx-00000-0001.3gp" clipBegin="0:00:01.000" clipEnd="0:00:02.000"/>
+				</par>
+			
+			<par id="P3_1">
+				<audio src="xx-00000-0001.3gp" clipBegin="0:00:02.000" clipEnd="0:00:03.000"/>
+				</par>
+			
+			<par id="source_2">
+				<audio src="xx-00000-0001.3gp" clipBegin="0:00:03.000" clipEnd="0:00:04.000"/>
+				</par>
+			
+			<par id="P4_1">
+				<audio src="xx-00000-0001.3gp" clipBegin="0:00:04.000" clipEnd="0:00:05.000"/>
+				</par>
+			
+			<par id="source_3">
+				<audio src="xx-00000-0001.3gp" clipBegin="0:00:05.000" clipEnd="0:00:06.000"/>
+				</par>
+			
+			<par id="P5_1">
+				<audio src="xx-00000-0001.3gp" clipBegin="0:00:06.000" clipEnd="0:00:07.000"/>
+				</par>
+			
+			<par id="source_4">
+				<audio src="xx-00000-0001.3gp" clipBegin="0:00:07.000" clipEnd="0:00:08.000"/>
+				</par>
+			
+			<par id="P5_2">
+				<audio src="xx-00000-0001.3gp" clipBegin="0:00:08.000" clipEnd="0:00:09.000"/>
+				</par>
+			
+			<par id="source_5">
+				<audio src="xx-00000-0001.3gp" clipBegin="0:00:09.000" clipEnd="0:00:10.000"/>
+				</par>
+			
+			<par id="P4_2">
+				<audio src="xx-00000-0001.3gp" clipBegin="0:00:10.000" clipEnd="0:00:11.000"/>
+				</par>
+			
+			<par id="source_6">
+				<audio src="xx-00000-0001.3gp" clipBegin="0:00:11.000" clipEnd="0:00:12.000"/>
+				</par>
+			
+			<par id="P5_3">
+				<audio src="xx-00000-0001.3gp" clipBegin="0:00:12.000" clipEnd="0:00:13.000"/>
+				</par>
+			
+			<par id="source_7">
+				<audio src="xx-00000-0001.3gp" clipBegin="0:00:13.000" clipEnd="0:00:14.000"/>
+				</par>
+			
+			<par id="P5_4">
+				<audio src="xx-00000-0001.3gp" clipBegin="0:00:14.000" clipEnd="0:00:15.000"/>
+				</par>
+			
+			<par id="source_8">
+				<audio src="xx-00000-0001.3gp" clipBegin="0:00:15.000" clipEnd="0:00:58.000"/>
+				</par>
+			
+			<par id="P2_1">
+				<audio src="xx-00000-0001.3gp" clipBegin="0:00:58.000" clipEnd="0:00:59.000"/>
+				</par>
+			
+			<par id="source_9">
+				<audio src="xx-00000-0001.3gp" clipBegin="0:00:59.000" clipEnd="0:01:00.000"/>
+				</par>
+			</seq>
+		</body>
+	</smil>
